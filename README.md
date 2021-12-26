@@ -6,7 +6,7 @@ I'm always looking to improve myself and my coding skills and knowledge! I'm cur
 - 🌱 I’m currently learning _**Rust**_ and more _**C++**_
 - 👔 My most recent work experience was a data science internship at [Pitchdrive](https://www.pitchdrive.com) <sub><sup>_[Python, Selenium, Google Cloud Platform]_</sup></sub>
 - 📚 I have an academic background in Philosophy and Economics
-- 🪚 I manufacture and sell my own [laptop stands](https://en.edelhard.nl) from reclaimed wood
+- 🪚 I manufacture and sell my own [laptop stands](https://en.edelhard.nl) made from reclaimed wood
 - ⭐ My life goals are writing my own book ✍️ and building my own house 🧱
 
 I post my school projects, hackathon submissions and technical assignments, which are written in:

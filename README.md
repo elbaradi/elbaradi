@@ -2,9 +2,9 @@
 
 I'm always looking to improve myself and my coding skills and knowledge! I'm currently studying software engineering 👨‍💻 at [Codam](https://www.codam.nl/en/for-companies) (part of the [42 network](https://42.fr/en/what-is-42/42-program-explained/))
 
-- 🔭 I have an ambition to work on the frontier of digital innovation: _Metaverse, vertical farming, autonomous vehicles, algorithms, encryption_
+- 🔭 I have an ambition to work at the frontier of digital innovation <sub><sup>_[Metaverse, vertical farming, autonomous vehicles, algorithms, encryption]_</sup></sub>
 - 🌱 I’m currently learning _**Rust**_ and more _**C++**_
-- 👔 My most recent work experience was a data science internship at [Pitchdrive](https://www.pitchdrive.com): _Python, Selenium, Google Cloud Platform_
+- 👔 My most recent work experience was a data science internship at [Pitchdrive](https://www.pitchdrive.com) <sub><sup>_[Python, Selenium, Google Cloud Platform]_</sup></sub>
 - 📚 I have an academic background in Philosophy and Economics
 - 🪚 I manufacture and sell my own [laptop stands](en.edelhard.nl) from reclaimed wood
 - ⭐ My life goals are writing my own book ✍️ and building my own house 🧱

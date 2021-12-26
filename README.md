@@ -1,6 +1,6 @@
 ### What's up! I'm Tijmen 👋
 
-I'm always looking to improve myself and my coding skills and knowledge! I'm currently studying software engineering 👨‍💻 at [Codam](https://www.codam.nl/en/for-companies) 
+I'm always looking to improve myself and my coding skills and knowledge! I'm currently studying software engineering 👨‍💻 at [Codam](https://www.codam.nl/en/for-companies) (part of the [42 network](https://42.fr/en/what-is-42/42-program-explained/))
 
 - 🔭 I’m looking to work on the frontier of digital innovation
 - 🌱 I’m currently learning more _**C++**_

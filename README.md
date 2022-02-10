@@ -2,7 +2,7 @@
 
 I'm always looking to improve myself and my coding skills and knowledge! I'm currently studying software engineering 👨‍💻 at [Codam](https://www.codam.nl/en/for-companies) (part of the [42 network](https://42.fr/en/what-is-42/42-program-explained/))
 
-- 🔭 I have an ambition to work at the frontier of digital innovation <sub><sup>_[Sustainability, vertical farming, autonomous vehicles, algorithms, encryption]_</sup></sub>
+- 🔭 I have an ambition to work at the frontier of digital innovation <sub><sup>_[sustainability, vertical farming, autonomous vehicles, algorithms, encryption]_</sup></sub>
 - 🌱 I’m currently learning more _**C++**_
 - 👔 My most recent work experience was a data science internship at [Pitchdrive](https://www.pitchdrive.com) <sub><sup>_[Python, Selenium, Google Cloud Platform]_</sup></sub>
 - 📚 I have an academic background in Philosophy and Economics

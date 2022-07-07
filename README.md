@@ -1,15 +1,16 @@
 ### What's up! I'm Tijmen 👋
 
-I'm always looking to improve myself and my coding skills and knowledge! After studying software engineering 👨‍💻 at [Codam](https://www.codam.nl/en/for-companies) (part of the [42 network](https://42.fr/en/what-is-42/42-program-explained/)), I'm now happily working at [Sympower](https://sympower.net).
+I'm always looking to improve myself and my coding skills and knowledge! I'm working at [Sympower](https://sympower.net) where we facilitate the energy transition by unlocking and activating flexibility in the electrical grid through demand-response. A lot of words, but if you give me two minutes to explain it in person, I promise you I'll make it make sense.
 
-- 🔭 I have an ambition to work at the frontier of digital innovation <sub><sup>_[sustainability, vertical farming, autonomous vehicles, algorithms, encryption]_</sup></sub>
+- 🔭 I enjoy working at the frontier of digital innovation <sub><sup>_[sustainability, efficiency, AgTech, algorithms]_</sup></sub>
 - 🌱 I’m currently learning _**Java**_
-- 👔 My previous work experience was a data science internship at [Pitchdrive](https://www.pitchdrive.com) <sub><sup>_[Python, Selenium, Google Cloud Platform]_</sup></sub>
+- I have studied software engineering 👨‍💻 at [Codam](https://www.codam.nl/en/for-companies) (part of the [42 network](https://42.fr/en/what-is-42/42-program-explained/))
+- 👔 My first professional coding experience was a data science internship at [Pitchdrive](https://www.pitchdrive.com) <sub><sup>_[Python, Selenium, Google Cloud Platform]_</sup></sub>
 - 📚 I have an academic background in Philosophy and Economics
 - 🪚 I have manufactured and sold my own [laptop stands](https://en.edelhard.nl) made from reclaimed wood
 - ⭐ My life goals are writing my own book ✍️ and building my own house 🧱
 
-I post my school projects, hackathon submissions and technical assignments, which are written in:
+Public are my old school projects, hackathon submissions and technical assignments, which are written in:
 
 <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/> <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 

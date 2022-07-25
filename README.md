@@ -4,7 +4,7 @@ I'm always looking to improve myself and my coding skills and knowledge! I'm wor
 
 - 🔭 I enjoy working at the frontier of digital innovation <sub><sup>_[sustainability, efficiency, AgTech, algorithms]_</sup></sub>
 - 🌱 I’m currently learning _**Java**_
-- I have studied software engineering 👨‍💻 at [Codam](https://www.codam.nl/en/for-companies) (part of the [42 network](https://42.fr/en/what-is-42/42-program-explained/))
+- 👨‍💻 I have studied software engineering at [Codam](https://www.codam.nl/en/for-companies) (part of the [42 network](https://42.fr/en/what-is-42/42-program-explained/))
 - 👔 My first professional coding experience was a data science internship at [Pitchdrive](https://www.pitchdrive.com) <sub><sup>_[Python, Selenium, Google Cloud Platform]_</sup></sub>
 - 📚 I have an academic background in Philosophy and Economics
 - 🪚 I have manufactured and sold my own [laptop stands](https://en.edelhard.nl) made from reclaimed wood

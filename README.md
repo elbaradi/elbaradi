@@ -1,6 +1,6 @@
 ### What's up! I'm Tijmen 👋
 
-I'm always looking to improve myself and my coding skills and knowledge! I'm working at [Sympower](https://sympower.net) where we facilitate the energy transition by unlocking and activating flexibility in the electrical grid through demand-response. A lot of words, but if you give me two minutes to explain it in person, I promise you I'll make it make sense.
+I'm always looking to improve myself and my coding skills and knowledge! I'm working at [Sympower](https://sympower.net), where we facilitate the energy transition by unlocking and activating flexibility in the electrical grid through demand-response. A lot of words, but if you give me two minutes to explain it in person, I promise you I'll make it make sense.
 
 - 🔭 Enjoy working at the frontier of digital innovation <sub><sup>_[sustainability, efficiency, AgTech, algorithms]_</sup></sub>
 - 🌱 Currently learning more _**Java**_

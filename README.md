@@ -2,12 +2,11 @@
 
 I'm always looking to improve myself and my coding skills and knowledge! I'm working at [Sympower](https://sympower.net) where we facilitate the energy transition by unlocking and activating flexibility in the electrical grid through demand-response. A lot of words, but if you give me two minutes to explain it in person, I promise you I'll make it make sense.
 
-- 🔭 I enjoy working at the frontier of digital innovation <sub><sup>_[sustainability, efficiency, AgTech, algorithms]_</sup></sub>
-- 🌱 I’m currently learning _**Java**_
-- 👨‍💻 I have studied software engineering at [Codam](https://www.codam.nl/en/for-companies) (part of the [42 network](https://42.fr/en/what-is-42/42-program-explained/))
-- 👔 My first professional coding experience was a data science internship at [Pitchdrive](https://www.pitchdrive.com) <sub><sup>_[Python, Selenium, Google Cloud Platform]_</sup></sub>
-- 📚 I have an academic background in Philosophy and Economics
-- 🪚 I have manufactured and sold my own [laptop stands](https://en.edelhard.nl) made from reclaimed wood
+- 🔭 Enjoy working at the frontier of digital innovation <sub><sup>_[sustainability, efficiency, AgTech, algorithms]_</sup></sub>
+- 🌱 Currently learning more _**Java**_
+- 👨‍💻 Studied software engineering at [Codam](https://www.codam.nl/en/for-companies) (part of the [42 network](https://42.fr/en/what-is-42/42-program-explained/))
+- 📚 An academic background in Philosophy and Economics
+- 🪚 Manufactured and sold my own [laptop stands](https://en.edelhard.nl) made from reclaimed wood
 - ⭐ My life goals are writing my own book ✍️ and building my own house 🧱
 
 Public are my old school projects, hackathon submissions and technical assignments, which are written in:

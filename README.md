@@ -7,7 +7,7 @@ I'm always looking to improve myself and my coding skills and knowledge! I'm wor
 - 👨‍💻 Studied software engineering at [Codam](https://www.codam.nl/en/for-companies) (part of the [42 network](https://42.fr/en/what-is-42/42-program-explained/))
 - 📚 An academic background in Philosophy and Economics
 - 🪚 Manufactured and sold my own [laptop stands](https://en.edelhard.nl) made from reclaimed wood
-- ⭐ My life goals are writing my own book ✍️ and building my own house 🧱
+- ⭐ Life goals: writing a book ✍️ and building my own house 🧱
 
 Public are my old school projects, hackathon submissions and technical assignments, which are written in:
 

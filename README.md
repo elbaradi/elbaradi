@@ -1,11 +1,11 @@
 ### What's up! I'm Tijmen 👋
 
-I'm always looking to improve myself and my code! I'm working at [Sympower](https://sympower.net), where we facilitate the energy transition by unlocking and activating flexibility in the electrical grid through demand-response. A lot of technical words, but if you give me two minutes to explain it in person, I promise you it'll make sense.
+Always looking to improve myself and my code! Happily solving challenges at [Sympower](https://sympower.net), where we facilitate the energy transition by unlocking and activating flexibility in the electrical grid through demand-response. A lot of technical words, but if you give me two minutes to explain it in person, I promise I'll make it make sense to you.
 
-- 🔭 Enjoy working at the frontier of digital innovation <sub><sup>_[sustainability, efficiency, algorithms]_</sup></sub>
-- 🌱 Currently learning more _**Java**_
+- 🔭 Enjoy working at the frontier of digital innovation <sub><sup>_[sustainability, optimization, CP-SAT, efficiency, algorithms]_</sup></sub>
+- 🌱 Currently learning more _**Java**_ and _**Kotlin**_
 - 👨‍💻 Studied software engineering at [Codam](https://www.codam.nl/en/for-companies) (part of the [42 network](https://42.fr/en/what-is-42/42-program-explained/))
-- 📚 An academic background in Philosophy and Economics
+- 📚 Academic background in Philosophy and Economics
 - 🪚 Manufactured and sold our own laptop stands made from reclaimed wood
 - ⭐ Life goals: writing a book ✍️ and building my own house 🧱
 
